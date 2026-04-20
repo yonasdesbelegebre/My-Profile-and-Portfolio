@@ -32,13 +32,15 @@ A fully functional, integrated ERP system designed for enterprise management.
 * **Technologies:** Java, MySQL, iText.
 * **Impact:** Automated HRM, Inventory, and Financial Services for business operations.
 
-### [Network Administrator Tool]
+###  [Network Administrator Tool]
 Developed a network monitoring solution using Java and socket programming.
 * Enables real-time monitoring, file sharing, and remote control over a LAN.
 
-### [Data Analysis Portfolio]:Completed P
+###  [Data Analysis Portfolio]:Completed P
 Projects showcasing   data cleaning and visualization using Python and Power BI, focusing on retail and business datasets.
-
+#### Excel 
+analyzeed clean the data and visulzied using charts and in excel
+[Excel_PivotTable_Charts](Excel-1.png)
 ## Connect with me:
 - 📧 **Email:** [Yonas.desbelegebre@gmail.com](mailto:Yonas.desbelegebre@gmail.com)
 - 📍 **Location:** Birmingham, West Midlands (Open to Relocation)
