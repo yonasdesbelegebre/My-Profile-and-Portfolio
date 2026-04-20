@@ -38,7 +38,7 @@ Developed a network monitoring solution using Java and socket programming.
 
 ###  [Data Analysis Portfolio]:Bootcamp projects
 #### **Excel** 
-"I analyzed a Bike Sales dataset using Excel Pivot Tables to show revenune across different countries and product categories."
+- I analyzed a Bike Sales dataset using Excel Pivot Tables to show revenune across different countries and product categories.
 [Excel_PivotTable_Charts](Excel-1.png)
 
 ### **Python for Data Analysis** 
@@ -47,6 +47,7 @@ Developed a network monitoring solution using Java and socket programming.
 
 ### **SQL for Analysts** 
 – Query and Analysis of World datatbase.
+
 
 ### **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals. 
