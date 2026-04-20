@@ -50,7 +50,8 @@ Developed a network monitoring solution using Java and socket programming.
 ### **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals. 
 ### **Tableau** 
-– Sample reports showing KPIs, slicers, and interactive visuals. 
+– I used Tableau to explore how different health factors like BMI and Cholesterol affect populations across the world
+[BMI vs Cholesterol]()
 
 
 ## Get in touch:
