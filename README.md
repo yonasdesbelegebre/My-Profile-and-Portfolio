@@ -46,7 +46,8 @@ Developed a network monitoring solution using Java and socket programming.
 [Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 
 ### **SQL for Analysts** 
-– Example database and queries for teaching SELECT, JOIN, and aggregation. 
+– Query and Analysis of World datatbase.
+
 ### **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals. 
 ### **Tableau** 
