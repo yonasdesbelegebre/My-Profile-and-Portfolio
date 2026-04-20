@@ -41,7 +41,21 @@ Projects showcasing   data cleaning and visualization using Python and Power BI,
 #### Excel 
 analyzeed clean the data and visulzied using charts and in excel
 [Excel_PivotTable_Charts](Excel-1.png)
-## Connect with me:
+
+### **Python for Data Analysis** 
+– Python notebooks covering data types, loops, and basic Pandas. 
+
+### **SQL for Analysts** 
+– Example database and queries for teaching SELECT, JOIN, and aggregation. 
+### **Power BI Dashboards** 
+– Sample reports showing KPIs, slicers, and interactive visuals. 
+### **Tableau** 
+– Sample reports showing KPIs, slicers, and interactive visuals. 
+
+## Get in touch 
+- Email: *(add your email here if you want)*
+
+## Get in touch:
 - 📧 **Email:** [Yonas.desbelegebre@gmail.com](mailto:Yonas.desbelegebre@gmail.com)
 - 📍 **Location:** Birmingham, West Midlands (Open to Relocation)
 
