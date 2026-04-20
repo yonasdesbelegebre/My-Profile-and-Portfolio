@@ -51,7 +51,7 @@ Developed a network monitoring solution using Java and socket programming.
 – Sample reports showing KPIs, slicers, and interactive visuals. 
 ### **Tableau** 
 – I used Tableau to explore how different health factors like BMI and Cholesterol affect populations across the world
-[BMI vs Cholesterol]()
+[BMI vs Cholesterol](Tableau_charts.png)
 
 
 ## Get in touch:
