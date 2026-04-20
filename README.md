@@ -36,14 +36,14 @@ A fully functional, integrated ERP system designed for enterprise management.
 Developed a network monitoring solution using Java and socket programming.
 * Enables real-time monitoring, file sharing, and remote control over a LAN.
 
-###  [Data Analysis Portfolio]:Completed P
-Projects showcasing   data cleaning and visualization using Python and Power BI, focusing on retail and business datasets.
-#### Excel 
-analyzeed clean the data and visulzied using charts and in excel
+###  [Data Analysis Portfolio]:Bootcamp projects
+#### **Excel** 
+"I analyzed a Bike Sales dataset using Excel Pivot Tables to show revenune across different countries and product categories."
 [Excel_PivotTable_Charts](Excel-1.png)
 
 ### **Python for Data Analysis** 
-– Python notebooks covering data types, loops, and basic Pandas. 
+– Python notebooks from data cleaning to viuslizing the dataset.
+[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 
 ### **SQL for Analysts** 
 – Example database and queries for teaching SELECT, JOIN, and aggregation. 
@@ -52,8 +52,6 @@ analyzeed clean the data and visulzied using charts and in excel
 ### **Tableau** 
 – Sample reports showing KPIs, slicers, and interactive visuals. 
 
-## Get in touch 
-- Email: *(add your email here if you want)*
 
 ## Get in touch:
 - 📧 **Email:** [Yonas.desbelegebre@gmail.com](mailto:Yonas.desbelegebre@gmail.com)
