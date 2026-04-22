@@ -58,11 +58,14 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 #### **Tableau** 
 - Title: Global Health Insights(BMI and Cholesterol) Using Tableau
 - The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
-- What I did: I built an interactive Tableau Bubble Chart comparing BMI vs. Cholesterol levels.I Used visual cues like Color (for Continents) and Size (for Population) to show health trends and regional patterns.[BMI vs Cholesterol](Tableau_charts.png)
+- What I did: I built a Bubble Chart comparing BMI vs. Cholesterol levels.I Used visual cues like Color (for Continents) and Size (for Population) to show health trends and regional patterns.[BMI vs Cholesterol](Tableau_charts.png)
 - Organisation sectors: Public Health Agencies (like the NHS or WHO).
-- Why this is important:: This analysis helps the World Health Organization (WHO) decide where to send health grants and equipment. Helps for NHS, to identify risk groups before they get sick and prepare health plans.
+- Why this is important:: This analysis helps the World Health Organization (WHO) decide where to send health grants and equipments. Helps for NHS, to identify risk groups before they get sick and prepare health plans.
 #### **Power BI Dashboards** 
-– Sample reports showing KPIs, slicers, and interactive visuals. 
+– Title:Sales Performance Dashboard Using Microsoft Power BI
+- The dataset: Adventure works dataset prepared by microsoft.
+- What I did: Developed an Interactive dashboard to analyse sales,profit and product perfomance.Designed  and Filters.
+- [Interactive dashboard](PowerBI.png)
 
 ###  [Sabisa ERP System](https://github.com/haftomdesbele/SabisaBarAndRestaurant)
 A fully functional, integrated ERP system designed for enterprise management.
