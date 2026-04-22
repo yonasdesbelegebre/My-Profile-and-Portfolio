@@ -27,7 +27,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 
 ## Projects
 
-###  [Data Analysis Portfolio](Bootcamp projects in Data Analysis)
+###  **Data Analysis Portfolio**
 #### **Excel** 
 - Title: Sales performance analysis
 - The Dataset: Sourced from Kaggle [Retail Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
@@ -44,13 +44,12 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Organisation Type: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
 
-### **SQL for Analysts** 
-- Titel: Global Population and Economic Analysis: SQL
+### **SQL for Data Analsis** 
+- Title: Global Population and Economic Analysis: SQL
 – The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MYSQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
 -  [Sample SQL Scripts](World_script.sql)
 - The database design [ERD Diagram](ERD.png).
-- or
 
 ### **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals. 
