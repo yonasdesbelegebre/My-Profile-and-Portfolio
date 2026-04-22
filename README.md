@@ -38,14 +38,15 @@ Developed a network monitoring solution using Java and socket programming.
 
 ###  [Data Analysis Portfolio]:Bootcamp projects
 #### **Excel** 
-- The Dataset: Sourced from Kaggle (Bike Sales Dataset )_[AdventureWorks Sample Dataset](https://www.kaggle.com/datasets/vipin20/bike-sales) via Kaggle, containing over 100,000 records of customer purchases and regional sales.
+- The Dataset: Sourced from Kaggle [Bike Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
 - What I did: I used Excel Pivot Tables to summarize revenue and created a Stacked Column Chart to compare sales across different countries and product categories
 - The Goal: To identify which product categories (Bikes vs. Accessories) drive the most profit in specific global markets.
 [Excel_PivotTable_Charts](Excel-1.png)
-
+- Organisation Type: Online Retailer or Supermarket
+- Why this task is important for them:They use this data to track which products sell best and which countries are the most profitable. It helps managers decide where to spend marketing money and how much stock to order for different regions.
 ### **Python for Data Analysis** 
-- The dataset:Data sourced from [Kaggle: GDP (in USD) Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).
-- This dataset includes official estimates from the IMF, World Bank, and the UN.
+- The dataset:Sourced from Kaggle [GDP (in USD) Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).This dataset tracks the economic wealth of 223 countries using estimates from the IMF, World Bank, and United Nations.It is used to compare national economic health and standard of living across different global regions.
+- 
 – Python notebooks from data cleaning to viuslizing the dataset.
 [Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 
