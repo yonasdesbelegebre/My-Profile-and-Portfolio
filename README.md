@@ -46,9 +46,9 @@ Developed a network monitoring solution using Java and socket programming.
 - Why this task is important for them:They use this data to track which products sell best and which countries are the most profitable. It helps managers decide where to spend marketing money and how much stock to order for different regions.
 ### **Python for Data Analysis** 
 - The dataset:Sourced from Kaggle [GDP (in USD) Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).This dataset tracks the economic wealth of 223 countries using estimates from the IMF, World Bank, and United Nations.It is used to compare national economic health and standard of living across different global regions.
-- 
-– Python notebooks from data cleaning to viuslizing the dataset.
-[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
+- What I Did: I used Python to clean and transform datasets by fixing missing values and standardizing formats for better accuracy. I performed an Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to create visual charts and heatmaps.
+- The Goal:
+– Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 
 ### **SQL for Analysts** 
 – The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains Country,City and city Lanagauge tables.
