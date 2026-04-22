@@ -32,8 +32,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Title: Sales performance analysis using Pivot Table and chart.
 - The Dataset: Sourced from Kaggle [Retail Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
 - What I did: I used Excel Pivot Tables to summarize revenue and created a Stacked Column Chart to compare sales across different countries and product categories
-- The Goal: To identify which product categories (Bikes vs. Accessories) drive the most profit in specific global markets.
-[Excel_PivotTable_Charts](Excel-1.png)
+- ![Excel Dashboard showing that Accessories have higher profit margins than Bikes in European markets](Excel-1.png) Pivot table and charts helped to identify which items the business should focus on selling in specific global markets to increase total profit.
 - Organisation sectors: Online Retailer or Supermarket
 - Why this task is important for them:They use this data to track which products sell best and which countries are the most profitable. It helps managers decide where to spend marketing money and how much stock to order for different regions.
 #### **Python for Data Analysis** 
