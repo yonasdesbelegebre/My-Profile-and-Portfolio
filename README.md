@@ -64,7 +64,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 #### **Power BI Dashboards** 
 - Title:Sales Performance Dashboard Using Microsoft Power BI
 - The dataset: Adventure works dataset prepared by microsoft.
-- What I did: Developed an Interactive dashboard to analyse sales,profit and product perfomance.Sync Slicers and filters.
+- What I did: Developed an Interactive dashboard to analyse sales,profit and product perfomance.I used Sync Slicers and filters.
 - [Interactive dashboard](PowerBI.png)
 - Organisation sectors: Retail and E-commerce comapnies,Manufactruing and supply chain business.
 - Why this is important:Organisations can use this dashboard to monitor sales performance, track profit margins, and identify top-performing products and regions in real time.
