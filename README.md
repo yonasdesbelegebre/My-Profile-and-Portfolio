@@ -36,7 +36,8 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 [Excel_PivotTable_Charts](Excel-1.png)
 - Organisation Type: Online Retailer or Supermarket
 - Why this task is important for them:They use this data to track which products sell best and which countries are the most profitable. It helps managers decide where to spend marketing money and how much stock to order for different regions.
-### **Python for Data Analysis** 
+#### **Python for Data Analysis** 
+- Title: Worldwide GDP Per Capita Data Analysis Using Python
 - The dataset:Sourced from Kaggle [GDP Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).This dataset tracks the economic wealth of 223 countries using estimates from the IMF, World Bank, and United Nations.It is used to compare national economic health and standard of living across different global regions.
 - What I Did: I used Python to clean and transform datasets by fixing missing values and standardizing formats for better accuracy. I performed an Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to create visual charts and heatmaps.
 - The Goal:
@@ -44,20 +45,22 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Organisation Type: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
 
-### **SQL for Data Analsis** 
+#### **SQL for Data Analsis** 
 - Title: Global Population and Economic Analysis: SQL
 – The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MYSQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
 -  [Sample SQL Scripts](World_script.sql)
 - The database design [ERD Diagram](ERD.png).
 
-### **Power BI Dashboards** 
-– Sample reports showing KPIs, slicers, and interactive visuals. 
-### **Tableau** 
+
+#### **Tableau** 
 – The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
 - What I did: I built an interactive Tableau Bubble Chart comparing BMI vs. Cholesterol levels
 - The Goal: Used visual cues like Color (for Continents) and Size (for Population) to uncover health trends and regional patterns.
 [BMI vs Cholesterol](Tableau_charts.png)
+
+#### **Power BI Dashboards** 
+– Sample reports showing KPIs, slicers, and interactive visuals. 
 
 ###  [Sabisa ERP System](https://github.com/haftomdesbele/SabisaBarAndRestaurant)
 A fully functional, integrated ERP system designed for enterprise management.
