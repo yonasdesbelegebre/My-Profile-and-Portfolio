@@ -38,7 +38,9 @@ Developed a network monitoring solution using Java and socket programming.
 
 ###  [Data Analysis Portfolio]:Bootcamp projects
 #### **Excel** 
-- I analyzed a Bike Sales dataset using Excel Pivot Tables to show revenune across different countries and product categories.
+- The Dataset: Sourced from Kaggle (Bike Sales Dataset), containing over 100,000 records of customer purchases and regional sales.
+- What I did: I used Excel Pivot Tables to summarize revenue and created a Stacked Column Chart to compare sales across different countries and product categories
+- The Goal: To identify which product categories (Bikes vs. Accessories) drive the most profit in specific global markets.
 [Excel_PivotTable_Charts](Excel-1.png)
 
 ### **Python for Data Analysis** 
@@ -53,9 +55,10 @@ Desgin the database [ERD Diagram](ERD.png)
 ### **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals. 
 ### **Tableau** 
-– I used Tableau to explore how different health factors like BMI and Cholesterol affect populations across the world
+– The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
+- What I did: I built an interactive Tableau Bubble Chart comparing BMI vs. Cholesterol levels
+- The Goal: Used visual cues like Color (for Continents) and Size (for Population) to uncover health trends and regional patterns.
 [BMI vs Cholesterol](Tableau_charts.png)
-
 
 ## Get in touch:
 - 📧 **Email:** [Yonas.desbelegebre@gmail.com](mailto:Yonas.desbelegebre@gmail.com)
