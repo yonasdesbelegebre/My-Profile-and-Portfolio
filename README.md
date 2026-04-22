@@ -46,7 +46,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Title: Global Population and Economic analysis: SQL
 - The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
-- The sample query to show citites with population between 500000 and 1000000 [Query Population of citites](Snap1.png)
+- The sample query to show citites with population between 500000 and 1000000 ![Query Population of citites](Snap1.png)
 - [SQL Scripts](World_scipt.sql)
 - The database design [ERD Diagram](ERD.png).
 - Organisation sectors: Global Shipping Company (e.g.DHL) or International Retailer.
