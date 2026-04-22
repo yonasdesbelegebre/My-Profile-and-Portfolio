@@ -44,12 +44,14 @@ Developed a network monitoring solution using Java and socket programming.
 [Excel_PivotTable_Charts](Excel-1.png)
 
 ### **Python for Data Analysis** 
-- The dataset Data sourced from [Kaggle: GDP (in USD) Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country). This dataset includes official estimates from the IMF, World Bank, and the UN.
+- The dataset:Data sourced from [Kaggle: GDP (in USD) Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country). This dataset includes official estimates from the IMF, World Bank, and the UN.
 – Python notebooks from data cleaning to viuslizing the dataset.
 [Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 
 ### **SQL for Analysts** 
-– Query and Analysis of World datatbase. [Sample SQL Scripts](World_script.sql)
+– The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains Country,City and cityLanagauge tables.
+- Query and Analysis of World datatbase. [Sample SQL Scripts](World_script.sql)
+- What I did-
 Desgin the database [ERD Diagram](ERD.png)
 
 
