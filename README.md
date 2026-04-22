@@ -44,7 +44,6 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 – Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 - Organisation sectors: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
-
 #### **SQL for Data Analysis** 
 - Title: Global Population and Economic analysis: SQL
 - The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
@@ -54,7 +53,6 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - The database design [ERD Diagram](ERD.png).
 - Organisation sectors: Global Shipping Company (e.g.DHL) or International Retailer.
 - Why this is important:A shipping company would use these SQL queries to find the biggest cities and the wealthiest countries to decide where to build their next delivery centers. These scripts allow them to quickly sort through thousands of locations to find the most profitable places to expand their business.
-
 #### **Tableau** 
 - Title: Global Health Insights(BMI and Cholesterol) Using Tableau
 - The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
@@ -69,7 +67,6 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Organisation sectors: Retail and E-commerce comapnies,Manufactruing and supply chain business.
 - Why this is important:Organisations can use this dashboard to monitor sales performance, track profit margins, and identify top-performing products and regions in real time.
 It enables data-driven decision-making by highlighting trends, improving forecasting, and helping businesses optimise pricing, inventory, and sales strategies.
-
 ###  [Sabisa ERP System](https://github.com/haftomdesbele/SabisaBarAndRestaurant)
 A fully functional, integrated ERP system designed for enterprise management.
 * **Technologies:** Java, MySQL, iText.
