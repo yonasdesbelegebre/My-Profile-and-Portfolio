@@ -29,14 +29,14 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 
 ###  [Data Analysis Portfolio]:Bootcamp projects
 #### **Excel** 
-- The Dataset: Sourced from Kaggle [Bike Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
+- The Dataset: Sourced from Kaggle [Retail Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
 - What I did: I used Excel Pivot Tables to summarize revenue and created a Stacked Column Chart to compare sales across different countries and product categories
 - The Goal: To identify which product categories (Bikes vs. Accessories) drive the most profit in specific global markets.
 [Excel_PivotTable_Charts](Excel-1.png)
 - Organisation Type: Online Retailer or Supermarket
 - Why this task is important for them:They use this data to track which products sell best and which countries are the most profitable. It helps managers decide where to spend marketing money and how much stock to order for different regions.
 ### **Python for Data Analysis** 
-- The dataset:Sourced from Kaggle [GDP (in USD) Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).This dataset tracks the economic wealth of 223 countries using estimates from the IMF, World Bank, and United Nations.It is used to compare national economic health and standard of living across different global regions.
+- The dataset:Sourced from Kaggle [GDP Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).This dataset tracks the economic wealth of 223 countries using estimates from the IMF, World Bank, and United Nations.It is used to compare national economic health and standard of living across different global regions.
 - What I Did: I used Python to clean and transform datasets by fixing missing values and standardizing formats for better accuracy. I performed an Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to create visual charts and heatmaps.
 - The Goal:
 – Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
@@ -44,9 +44,10 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
 
 ### **SQL for Analysts** 
-– The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains Country,City and city Lanagauge tables.
-- What I did:Query and Analysis of World datatbase. [Sample SQL Scripts](World_script.sql)
-- Desgin the database [ERD Diagram](ERD.png)
+– The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
+- What I did:I developed a set of SQL queries to extract and analyze global demographic and economic data from the MySQL world database. I used SQL techniques, including JOINs to combine country and city data, Subqueries to filter specific regional capitals, and Aggregate Functions to calculate average populations.
+-  [Sample SQL Scripts](World_script.sql)
+- The database design [ERD Diagram](ERD.png)
 
 ### **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals. 
