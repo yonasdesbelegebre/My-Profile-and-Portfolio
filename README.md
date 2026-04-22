@@ -45,16 +45,16 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Organisation Type: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
 
-#### **SQL for Data Analsis** 
+#### **SQL for Data Analysis** 
 - Title: Global Population and Economic Analysis: SQL
-– The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
+- The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MYSQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
 -  [Sample SQL Scripts](World_script.sql)
 - The database design [ERD Diagram](ERD.png).
 
 
 #### **Tableau** 
-– The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
+- The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
 - What I did: I built an interactive Tableau Bubble Chart comparing BMI vs. Cholesterol levels
 - The Goal: Used visual cues like Color (for Continents) and Size (for Population) to uncover health trends and regional patterns.
 [BMI vs Cholesterol](Tableau_charts.png)
