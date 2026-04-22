@@ -29,7 +29,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 
 ###  **Data Analysis Portfolio**
 #### **Excel** 
-- Title: Sales performance analysis
+- Title: Sales performance analysis using Pivot Table and chart.
 - The Dataset: Sourced from Kaggle [Retail Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
 - What I did: I used Excel Pivot Tables to summarize revenue and created a Stacked Column Chart to compare sales across different countries and product categories
 - The Goal: To identify which product categories (Bikes vs. Accessories) drive the most profit in specific global markets.
@@ -40,7 +40,6 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Title: Worldwide GDP Per Capita Data Analysis Using Python
 - The dataset:Sourced from Kaggle [GDP Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).This dataset tracks the economic wealth of 223 countries using estimates from the IMF, World Bank, and United Nations.It is used to compare national economic health and standard of living across different global regions.
 - What I Did: I used Python to clean and transform datasets by fixing missing values and changing to appropriate datatype. I performed an Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to create visual charts and heatmaps.
-- The Goal:
 – Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 - Organisation sectors: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
@@ -48,7 +47,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Title: Global Population and Economic analysis: SQL
 - The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
-- The sample query to show citites with population between 5000000 and 1000000 [Query Population of citites](Snap1.png)
+- The sample query to show citites with population between 500000 and 1000000 [Query Population of citites](Snap1.png)
 - [SQL Scripts](World_scipt.sql)
 - The database design [ERD Diagram](ERD.png).
 - Organisation sectors: Global Shipping Company (e.g.DHL) or International Retailer.
