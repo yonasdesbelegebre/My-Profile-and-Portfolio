@@ -27,15 +27,6 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 
 ## Projects
 
-###  [Sabisa ERP System](https://github.com/haftomdesbele/SabisaBarAndRestaurant)
-A fully functional, integrated ERP system designed for enterprise management.
-* **Technologies:** Java, MySQL, iText.
-* **Impact:** Automated HRM, Inventory, and Financial Services for business operations.
-
-###  [Network Administrator Tool]
-Developed a network monitoring solution using Java and socket programming.
-* Enables real-time monitoring, file sharing, and remote control over a LAN.
-
 ###  [Data Analysis Portfolio]:Bootcamp projects
 #### **Excel** 
 - The Dataset: Sourced from Kaggle [Bike Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
@@ -54,10 +45,8 @@ Developed a network monitoring solution using Java and socket programming.
 
 ### **SQL for Analysts** 
 – The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains Country,City and city Lanagauge tables.
-- Query and Analysis of World datatbase. [Sample SQL Scripts](World_script.sql)
-- What I did:
+- What I did:Query and Analysis of World datatbase. [Sample SQL Scripts](World_script.sql)
 - Desgin the database [ERD Diagram](ERD.png)
-
 
 ### **Power BI Dashboards** 
 – Sample reports showing KPIs, slicers, and interactive visuals. 
@@ -66,6 +55,15 @@ Developed a network monitoring solution using Java and socket programming.
 - What I did: I built an interactive Tableau Bubble Chart comparing BMI vs. Cholesterol levels
 - The Goal: Used visual cues like Color (for Continents) and Size (for Population) to uncover health trends and regional patterns.
 [BMI vs Cholesterol](Tableau_charts.png)
+
+###  [Sabisa ERP System](https://github.com/haftomdesbele/SabisaBarAndRestaurant)
+A fully functional, integrated ERP system designed for enterprise management.
+* **Technologies:** Java, MySQL, iText.
+* **Impact:** Automated HRM, Inventory, and Financial Services for business operations.
+
+###  [Network Administrator Tool]
+Developed a network monitoring solution using Java and socket programming.
+* Enables real-time monitoring, file sharing, and remote control over a LAN.
 
 ## Get in touch:
 - 📧 **Email:** [Yonas.desbelegebre@gmail.com](mailto:Yonas.desbelegebre@gmail.com)
