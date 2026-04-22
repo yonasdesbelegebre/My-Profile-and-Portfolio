@@ -39,7 +39,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 #### **Python for Data Analysis** 
 - Title: Worldwide GDP Per Capita Data Analysis Using Python
 - The dataset:Sourced from Kaggle [GDP Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).This dataset tracks the economic wealth of 223 countries using estimates from the IMF, World Bank, and United Nations.It is used to compare national economic health and standard of living across different global regions.
-- What I Did: I used Python to clean and transform datasets by fixing missing values and standardizing formats for better accuracy. I performed an Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to create visual charts and heatmaps.
+- What I Did: I used Python to clean and transform datasets by fixing missing values and changing to appropriate datatype. I performed an Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to create visual charts and heatmaps.
 - The Goal:
 – Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 - Organisation Type: International Investment Bank or Economic Research Institute.
@@ -57,8 +57,7 @@ A shipping company would use these SQL queries to find the biggest cities and th
 
 #### **Tableau** 
 - The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
-- What I did: I built an interactive Tableau Bubble Chart comparing BMI vs. Cholesterol levels
-- The Goal: Used visual cues like Color (for Continents) and Size (for Population) to uncover health trends and regional patterns.
+- What I did: I built an interactive Tableau Bubble Chart comparing BMI vs. Cholesterol levels.I Used visual cues like Color (for Continents) and Size (for Population) to show health trends and regional patterns.
 [BMI vs Cholesterol](Tableau_charts.png)
 
 #### **Power BI Dashboards** 
