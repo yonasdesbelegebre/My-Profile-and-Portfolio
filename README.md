@@ -48,12 +48,12 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 #### **SQL for Data Analysis** 
 - Title: Global Population and Economic analysis: SQL
 - The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
-- What I did:I developed a set of SQL queries to extract and analyze global demographic data in MYSQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
-- The sample show  [Sample SQL Scripts](World_scipt.sql)
+- What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
+- The sample query to show citites with population between 5000000 and 1000000 [Query Population of citites](Snap1.png)
+-   [Sample SQL Scripts](World_scipt.sql)
 - The database design [ERD Diagram](ERD.png).
 - Organisation Type: Global Shipping Company (e.g.DHL) or International Retailer.
-- Why this is important:
-A shipping company would use these SQL queries to find the biggest cities and the wealthiest countries to decide where to build their next delivery centers. These scripts allow them to quickly sort through thousands of locations to find the most profitable places to expand their business.
+- Why this is important:A shipping company would use these SQL queries to find the biggest cities and the wealthiest countries to decide where to build their next delivery centers. These scripts allow them to quickly sort through thousands of locations to find the most profitable places to expand their business.
 
 #### **Tableau** 
 - The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
