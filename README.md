@@ -46,7 +46,8 @@ Developed a network monitoring solution using Java and socket programming.
 [Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 
 ### **SQL for Analysts** 
-– Query and Analysis of World datatbase.
+– Query and Analysis of World datatbase. [Sample SQL Scripts](World_script.sql)
+Desgin the database [ERD Diagram](ERD.png)
 
 
 ### **Power BI Dashboards** 
