@@ -49,6 +49,8 @@ Developed a network monitoring solution using Java and socket programming.
 - What I Did: I used Python to clean and transform datasets by fixing missing values and standardizing formats for better accuracy. I performed an Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to create visual charts and heatmaps.
 - The Goal:
 – Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
+- Organisation Type: International Investment Bank or Economic Research Institute.
+- Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
 
 ### **SQL for Analysts** 
 – The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains Country,City and city Lanagauge tables.
