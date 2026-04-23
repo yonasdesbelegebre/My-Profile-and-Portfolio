@@ -1,5 +1,5 @@
 # My-Profile-&-Portfolio
-# Hi, I'm Yonas Gebre!
+# Hi, I'm Yonas Gebre! 👋
 
 ### **Aspiring Data Analyst | Software Engineer**
 Based in **Birmingham, UK**, I am a Computer Science and  graduate and former University Lecturer transitioning into the world of **Data Analytics**. I combine a deep background in software development and OOP with modern data technician training to build scalable, data-driven solutions.
@@ -25,9 +25,9 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 
 ---
 
-## Projects
+##📂 Projects
 
-###  **Data Analysis Portfolio**
+### 📈 **Data Analysis Portfolio**
 #### **Excel** 
 - Title: Sales performance analysis using Pivot Table and chart.
 - The Dataset: Sourced from Kaggle [Retail Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
