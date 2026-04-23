@@ -60,10 +60,12 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Organisation sectors: Public Health Agencies (like the NHS or WHO).
 - Why this is important:: This analysis helps the World Health Organization (WHO) decide where to send health grants and equipments. Helps for NHS, to identify risk groups before they get sick and prepare health plans.
 #### **Power BI Dashboards** 
+- Title: Sales Reports 
+- [Power BI dashboard Developed using Power BI Desktop](https://app.powerbi.com/links/edDr6ca--a?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 - Title:Sales Performance Dashboard Using Microsoft Power BI
 - The dataset: Adventure works dataset prepared by microsoft.
 - What I did: Developed an Interactive dashboard to analyse sales,profit and product perfomance.I used Sync Slicers and filters.
-- [Interactive dashboard](PowerBI.png)
+- [Interactive dashboard Lab Report](PowerBI.png)
 - Organisation sectors: Retail and E-commerce comapnies,Manufactruing and supply chain business.
 - Why this is important:Organisations can use this dashboard to monitor sales performance, track profit margins, and identify top-performing products and regions in real time.
 It enables data-driven decision-making by highlighting trends, improving forecasting, and helping businesses optimise pricing, inventory, and sales strategies.
