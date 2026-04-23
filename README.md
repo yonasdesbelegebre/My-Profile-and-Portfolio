@@ -1,4 +1,4 @@
-# My-Profile-&-Portfolio
+
 # Hi, I'm Yonas Gebre! 👋
 
 ### **Aspiring Data Analyst | Software Engineer**
