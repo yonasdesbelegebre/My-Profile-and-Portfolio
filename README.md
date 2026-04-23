@@ -41,7 +41,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - What I Did: I used Python to clean and transform datasets by fixing missing values and changing to appropriate datatype. I performed an Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to create visual charts and heatmaps.
 - This code use *Pandas* library to import data and provides a summary of the data's size,it also shows the data is clean before analysis.
 - ![Python Code  ](Sample_code.png)
-– Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
+- Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 - Organisation sectors: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
 #### **SQL for Data Analysis** 
