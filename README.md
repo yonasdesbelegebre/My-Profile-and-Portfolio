@@ -50,13 +50,13 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
 - The sample query to show citites with population between 500000 and 1000000 ![Query Population of citites](Snap1.png)
 - [SQL Scripts](World_scipt.sql)
-- The database design [ERD Diagram](ERD.png).
+- The database design ![ERD Diagram](ERD.png).
 - Organisation sectors: Global Shipping Company (e.g.DHL) or International Retailer.
 - Why this is important:A shipping company would use these SQL queries to find the biggest cities and the wealthiest countries to decide where to build their next delivery centers. These scripts allow them to quickly sort through thousands of locations to find the most profitable places to expand their business.
 #### **Tableau** 
 - Title: Global Health Insights(BMI and Cholesterol) Using Tableau
 - The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
-- What I did: I built a Bubble Chart comparing BMI vs. Cholesterol levels.I Used visual cues like Color (for Continents) and Size (for Population) to show health trends and regional patterns.[BMI vs Cholesterol](Tableau_charts.png)
+- What I did: I built a Bubble Chart comparing BMI vs. Cholesterol levels.I Used visual cues like Color (for Continents) and Size (for Population) to show health trends and regional patterns.![BMI vs Cholesterol](Tableau_charts.png)
 - Organisation sectors: Public Health Agencies (like the NHS or WHO).
 - Why this is important:: This analysis helps the World Health Organization (WHO) decide where to send health grants and equipments. Helps for NHS, to identify risk groups before they get sick and prepare health plans.
 #### **Power BI Dashboards** 
@@ -65,7 +65,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - [Power BI dashboard Developed using Power BI Desktop](https://app.powerbi.com/links/edDr6ca--a?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 - Title:Sales Performance Dashboard Using Microsoft Power BI
 - What I did: Developed an Interactive dashboard to analyse sales,profit and product perfomance.I used Sync Slicers and filters.
-- [Interactive dashboard Lab Report](PowerBI.png)
+- ![Interactive dashboard Lab Report](PowerBI.png)
 - Organisation sectors: Retail and E-commerce comapnies,Manufactruing and supply chain business.
 - Why this is important:Organisations can use this dashboard to monitor sales performance, track profit margins, and identify top-performing products and regions in real time.
 It enables data-driven decision-making by highlighting trends, improving forecasting, and helping businesses optimise pricing, inventory, and sales strategies.
