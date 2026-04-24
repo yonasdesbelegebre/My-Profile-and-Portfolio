@@ -48,14 +48,14 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 ## 📂 Projects
 
 ### 📈 **Data Analysis Portfolio**
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="40" height="40" />**Excel** 
+#### <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="25" height="25"/>**Excel** 
 - Title: Sales performance analysis using Pivot Table and chart.
 - The Dataset: Sourced from Kaggle [Retail Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
 - What I did: I used Excel Pivot Tables to summarize revenue and created a Stacked Column Chart to compare sales across different countries and product categories
 - ![Excel Dashboard showing that Accessories have higher profit margins than Bikes in European markets](Excel-1.png) Pivot table and charts helped to identify which items the business should focus on selling in specific global markets to increase total profit.
 - Organisation sectors: Online Retailer or Supermarket
 - Why this task is important for them:They use this data to track which products sell best and which countries are the most profitable. It helps managers decide where to spend marketing money and how much stock to order for different regions.
-#### **Python for Data Analysis** 
+#### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/>**Python for Data Analysis** 
 - Title: Worldwide GDP Per Capita Data Analysis Using Python
 - The dataset:Sourced from Kaggle [GDP Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).This dataset tracks the economic wealth of 223 countries using estimates from the IMF, World Bank, and United Nations.It is used to compare national economic health and standard of living across different global regions.
 - What I Did: I used Python to clean and transform datasets by fixing missing values and changing to appropriate datatype. I performed an Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to create visual charts and heatmaps.
@@ -65,7 +65,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 - Organisation sectors: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
-#### **SQL for Data Analysis** 
+#### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/>**SQL for Data Analysis** 
 - Title: Global Population and Economic analysis: SQL
 - The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
@@ -74,13 +74,13 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - The database design ![ERD Diagram](ERD.png).
 - Organisation sectors: Global Shipping Company (e.g.DHL) or International Retailer.
 - Why this is important:A shipping company would use these SQL queries to find the biggest cities and the wealthiest countries to decide where to build their next delivery centers. These scripts allow them to quickly sort through thousands of locations to find the most profitable places to expand their business.
-#### **Tableau** 
+####  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="25" height="25"/>**Tableau** 
 - Title: Global Health Insights(BMI and Cholesterol) Using Tableau
 - The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
 - What I did: I built a Bubble Chart comparing BMI vs. Cholesterol levels.I Used visual cues like Color (for Continents) and Size (for Population) to show health trends and regional patterns.![BMI vs Cholesterol](Tableau_charts.png)
 - Organisation sectors: Public Health Agencies (like the NHS or WHO).
 - Why this is important:: This analysis helps the World Health Organization (WHO) decide where to send health grants and equipments. Helps for NHS, to identify risk groups before they get sick and prepare health plans.
-#### **Power BI Dashboards** 
+#### <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25" height="25"/>**Power BI Dashboards** 
 - Title: Sales Reports
 - The dataset: Adventure works dataset prepared by microsoft.
 - [Power BI dashboard Developed using Power BI Desktop](https://app.powerbi.com/links/edDr6ca--a?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
