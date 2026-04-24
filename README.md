@@ -57,11 +57,11 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - The database design ![ERD Diagram](ERD.png).
 - Organisation sectors: Global Shipping Company (e.g.DHL) or International Retailer.
 - Why this is important:A shipping company would use these SQL queries to find the biggest cities and the wealthiest countries to decide where to build their next delivery centers. These scripts allow them to quickly sort through thousands of locations to find the most profitable places to expand their business.
+- [Live Dashborad Life Expectancy](https://public.tableau.com/shared/YD7P9M84N?:display_count=n&:origin=viz_share_link)
 ####  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="25" height="25"/>**Tableau** 
 - Title: Global Health Insights(BMI and Cholesterol) Using Tableau
 - The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
 - What I did: I built a Bubble Chart comparing BMI vs. Cholesterol levels.I Used visual cues like Color (for Continents) and Size (for Population) to show health trends and regional patterns.![BMI vs Cholesterol](Tableau_charts.png)
-- [Live Dashborad Life Expectancy](https://public.tableau.com/shared/YD7P9M84N?:display_count=n&:origin=viz_share_link)
 - Organisation sectors: Public Health Agencies (like the NHS or WHO).
 - Why this is important:: This analysis helps the World Health Organization (WHO) decide where to send health grants and equipments. Helps for NHS, to identify risk groups before they get sick and prepare health plans.
 #### <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25" height="25"/>**Power BI Dashboards** 
