@@ -11,6 +11,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - 🏫 **Past Life:** Assistant Lecturer (AI, OOP, Databases) and Team Leader for ERP development.
 - 📊 **Currently:** Refining my skills in **Excel,PowerBI,Tableau,SQL, Microsoft Fabric, and Python** for data analysis.
 - 🎯 **Future:** Looking for Junior Data Analyst or Data Engineering roles in Finance, Health, or Business.
+
 ---
 
 ### **Data & Analytics**
@@ -28,7 +29,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 ## 📂 Projects
 
 ### 📈 **Data Analysis Portfolio**
-#### ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)**Excel** 
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="40" height="40" />**Excel** 
 - Title: Sales performance analysis using Pivot Table and chart.
 - The Dataset: Sourced from Kaggle [Retail Sales Dataset](https://www.kaggle.com/datasets/hamedahmadinia/global-bike-sales-dataset-2013-2023), containing over 110,000 records of customer purchases and regional sales.This dataset contains comprehensive retail information, including customer infromation, location, and categorized product details for bikes, clothing, and accessories. It also includes financial metrics like unit costs, revenue, and profit.
 - What I did: I used Excel Pivot Tables to summarize revenue and created a Stacked Column Chart to compare sales across different countries and product categories
