@@ -25,7 +25,26 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - **DevOps/Tools:** Git, GitHub, Linux, Scram
 
 ---
+### 🛠️ My Tech Stack
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="48" height="48" alt="Excel" />
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/7064595/50384833-2a075d80-0691-11e9-9602-09418608226b.png" width="48" height="48" alt="Power BI" />
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+  </tr>
+</table>
+
+---
 ## 📂 Projects
 
 ### 📈 **Data Analysis Portfolio**
