@@ -14,6 +14,8 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 
 ---
 
+## 🛠️ My Tech Stack
+
 ### **Data & Analytics**
 - **Analysis:** Python (Pandas, Matplotlib, Seaborn), MS Excel
 - **Visualization:** Power BI, Tableau
@@ -25,24 +27,6 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - **DevOps/Tools:** Git, GitHub, Linux, Scram
 
 ---
-### 🛠️ My Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" width="48" height="48" alt="Excel" />
-      <br>Excel
-    </td>
-    <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/7064595/50384833-2a075d80-0691-11e9-9602-09418608226b.png" width="48" height="48" alt="Power BI" />
-      <br>Power BI
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-  </tr>
-</table>
 
 ---
 ## 📂 Projects
@@ -65,7 +49,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 - Organisation sectors: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
-#### ![SQL for Data Analysis](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+#### ![SQL for Data Analysis](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)SQL for Data Analysis
 - Title: Global Population and Economic analysis: SQL
 - The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
