@@ -48,7 +48,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 - Organisation sectors: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
-#### ![SQL for Data Analysis](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)SQL for Data Analysis
+#### ![SQL for Data Analysis](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) for Data Analysis
 - Title: Global Population and Economic analysis: SQL
 - The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
@@ -57,11 +57,11 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - The database design ![ERD Diagram](ERD.png).
 - Organisation sectors: Global Shipping Company (e.g.DHL) or International Retailer.
 - Why this is important:A shipping company would use these SQL queries to find the biggest cities and the wealthiest countries to decide where to build their next delivery centers. These scripts allow them to quickly sort through thousands of locations to find the most profitable places to expand their business.
-- [Live Dashborad Life Expectancy](https://public.tableau.com/shared/YD7P9M84N?:display_count=n&:origin=viz_share_link)
 ####  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="25" height="25"/>**Tableau** 
 - Title: Global Health Insights(BMI and Cholesterol) Using Tableau
 - The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
-- What I did: I built a Bubble Chart comparing BMI vs. Cholesterol levels.I Used visual cues like Color (for Continents) and Size (for Population) to show health trends and regional patterns.![BMI vs Cholesterol](Tableau_charts.png)
+- What I did: I built a Bubble Chart comparing BMI vs. Cholesterol levels.I Used visual cues like Color (for Continents) and Size (for Population) to show health trends and regional patterns.
+- [Live Dashborad Life Expectancy](https://public.tableau.com/shared/YD7P9M84N?:display_count=n&:origin=viz_share_link)![BMI vs Cholesterol](Tableau_charts.png)
 - Organisation sectors: Public Health Agencies (like the NHS or WHO).
 - Why this is important:: This analysis helps the World Health Organization (WHO) decide where to send health grants and equipments. Helps for NHS, to identify risk groups before they get sick and prepare health plans.
 #### <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="25" height="25"/>**Power BI Dashboards** 
