@@ -28,7 +28,6 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 
 ---
 
----
 ## 📂 Projects
 
 ### 📈 **Data Analysis Portfolio**
