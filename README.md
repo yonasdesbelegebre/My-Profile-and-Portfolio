@@ -65,7 +65,7 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 - Organisation sectors: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
-#### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/>**SQL for Data Analysis** 
+#### ![SQL for Data Analysis](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 - Title: Global Population and Economic analysis: SQL
 - The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
 - What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
