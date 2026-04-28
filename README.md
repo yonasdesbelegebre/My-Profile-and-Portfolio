@@ -85,7 +85,7 @@ Developed a network monitoring solution using Java and socket programming.
 
 ## Get in touch:
 - 📧 **Email:** [Yonas.desbelegebre@gmail.com](mailto:Yonas.desbelegebre@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/yonas-gebre-1196bb3a8/](https://www.linkedin.com/in/yonas-gebre-1196bb3a8/))]((https://www.linkedin.com/in/yonas-gebre-1196bb3a8/))*
+-    **Linkedin:**[Yonas Gebre](https://www.linkedin.com/in/yonas-gebre-1196bb3a8/)
 - 📍 **Location:** Birmingham, West Midlands (Open to Relocation)
 
 "I am a lifelong learner passionate about solving real-world problems through data-driven decision making."
