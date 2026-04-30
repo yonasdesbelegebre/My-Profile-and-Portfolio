@@ -38,6 +38,15 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - ![Excel Dashboard showing that Accessories have higher profit margins than Bikes in European markets](Excel-1.png) Pivot table and charts helped to identify which items the business should focus on selling in specific global markets to increase total profit.
 - Organisation sectors: Online Retailer or Supermarket
 - Why this task is important for them:They use this data to track which products sell best and which countries are the most profitable. It helps managers decide where to spend marketing money and how much stock to order for different regions.
+### ![SQL for Data Analysis](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) for Data Analysis
+- Title: Global Population and Economic analysis: SQL
+- The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
+- What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
+- The sample query to show citites with population between 500000 and 1000000 ![Query Population of citites](Snap1.png)
+- [SQL Scripts](World_scipt.sql)
+- The database design ![ERD Diagram](ERD.png).
+- Organisation sectors: Global Shipping Company (e.g.DHL) or International Retailer.
+- Why this is important:A shipping company would use these SQL queries to find the biggest cities and the wealthiest countries to decide where to build their next delivery centers. These scripts allow them to quickly sort through thousands of locations to find the most profitable places to expand their business.
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/>**Python for Data Analysis** 
 - Title: Worldwide GDP Per Capita Data Analysis Using Python
 - The dataset:Sourced from Kaggle [GDP Per Capita Income by Country](https://www.kaggle.com/datasets/rajkumarpandey02/gdp-in-usd-per-capita-income-by-country).This dataset tracks the economic wealth of 223 countries using estimates from the IMF, World Bank, and United Nations.It is used to compare national economic health and standard of living across different global regions.
@@ -48,15 +57,6 @@ Based in **Birmingham, UK**, I am a Computer Science and  graduate and former Un
 - Python notebooks from data cleaning to viuslizing the dataset.[Notebook Data CLeaning and Visualising](Week6day4Visual.ipynb)
 - Organisation sectors: International Investment Bank or Economic Research Institute.
 - Why this task is important for them:These organisations use this data to evaluate the economic health and growth potential of different countries before making major investment decisions. By comparing wealth data from multiple sources like the IMF and World Bank, they can accurately assess financial risks and identify the best global markets for business expansion.
-### ![SQL for Data Analysis](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) for Data Analysis
-- Title: Global Population and Economic analysis: SQL
-- The Dataset: This is the standard relational database sample provided by the MySQL team.[MySQL Documentation - World Databas](https://dev.mysql.com/doc/index-other.html).It contains country,city and city Lanagauge tables.
-- What I did:I developed a set of SQL queries to extract and analyze global demographic data in MySQL Workbench. I used SQL techniques, including JOINs to combine country and city data, Subquerie, and Aggregate Functions to calculate average populations.
-- The sample query to show citites with population between 500000 and 1000000 ![Query Population of citites](Snap1.png)
-- [SQL Scripts](World_scipt.sql)
-- The database design ![ERD Diagram](ERD.png).
-- Organisation sectors: Global Shipping Company (e.g.DHL) or International Retailer.
-- Why this is important:A shipping company would use these SQL queries to find the biggest cities and the wealthiest countries to decide where to build their next delivery centers. These scripts allow them to quickly sort through thousands of locations to find the most profitable places to expand their business.
 ###  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="25" height="25"/>**Tableau** 
 - Title: Global Health Insights(BMI and Cholesterol) Using Tableau
 - The Dataset: Sourced from Gapminder, focusing on global health metrics across different continents.
